@@ -1,4 +1,11 @@
 # Admin Ingram
+Ingram Administrator is an integrated API administrator and Woocomerce online store administration system. A user is created with the ingram api accesses.
+
+The synchronization of products, prices, stock, images, technical sheets, and order placement is automatic.
+
+The delivery time for service consumption is 24 hours. with approved ingram credentials.
+
+for corporate API and online store integration.
 
 This app provide a login page. It is done with:
 
